@@ -56,6 +56,7 @@ export const Header = styled.div`
   ${mq['md']} {
     text-align: center;
     width: 50%;
+    margin-bottom: 40px;
 
     h1 {
       text-align: center;
