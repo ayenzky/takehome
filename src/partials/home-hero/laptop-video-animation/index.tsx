@@ -167,7 +167,7 @@ const LaptopVideoAnimation = () => {
       <LaptopFrame initial={{ opacity: 1, y: 20 }} animate={laptopFrameControls}>
         {/* <Video loop muted playsInline src={signupWebsiteReavealVideoSrc} ref={videoRef} /> */}
         <StaticImage
-          src="./assets/hero_3.png"
+          src="./assets/hero_3_1.png"
           alt="B12 Website"
           layout="constrained"
           width={1000}
@@ -177,7 +177,7 @@ const LaptopVideoAnimation = () => {
           className="laptop-frame-desktop mx-auto"
         />
         <StaticImage
-          src="./assets/hero_3.png"
+          src="./assets/hero_3_1.png"
           alt="B12 Website"
           layout="constrained"
           width={400}
