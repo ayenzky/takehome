@@ -55,8 +55,8 @@ const PricingHero = () => {
           </ButtonWrapper> */}
         </Container>
 
-        <StyledVectorOutline />
-        <StyledVectorFilled />
+        {/* <StyledVectorOutline />
+        <StyledVectorFilled /> */}
       </Wrapper>
 
       {/* {featuresVisible && <PricingFeatures />} */}
